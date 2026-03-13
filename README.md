@@ -3,8 +3,8 @@
 **Author:** Carolina Johnson (CJ)  
 **Date:** July 2025  
 **License:** CC BY 4.0, Attribution required  
-**DOI:** https://zenodo.org/records/18227025  
-**ORCID:** https://orcid.org/0009-0006-6041-4155
+**DOI:** https://doi.org/10.5281/zenodo.18227025  
+**ORCID:** https://orcid.org/0009-0002-8819-3347
 
 ---
 
